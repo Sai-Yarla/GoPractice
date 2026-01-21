@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//variables
 func main() {
 	// default value of int is 0, also for all integer types and float types and runes
 	// default value of bool is false
